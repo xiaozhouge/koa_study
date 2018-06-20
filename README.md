@@ -1,8 +1,6 @@
-用到了koa  spider cheerio https模块
+用到了koa  spider cheerio https模块，爬取cnode社区最新一页的精华topic，用promise async的方式异步请求
 
 # 注意
-
-爬取cnode社区最新一页的精华topic
 
 cheerio里面好像不支持es6语法
 
